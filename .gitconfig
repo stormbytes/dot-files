@@ -1,13 +1,9 @@
 [user]
-[core]
-	editor = vim
-[color]
-	ui = true
-[user]
 	name = Daniel Balfour
 	email = stormbytes@gmail.com
 [core]
 	editor = vim
+	excludesfile = /Users/storm/.gitignore_global
 [color]
 	ui = true
 [difftool "Kaleidoscope"]
